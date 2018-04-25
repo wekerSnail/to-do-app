@@ -20,7 +20,7 @@ npm run build --report
  
 ### DEOM演示 
 
-- https://wekersnail.github.io/to-do-app/
+- https://wekersnail.github.io/to-do-app/     ps:手机查看，或者浏览器手机模式
 
 ### 技术栈 
 
