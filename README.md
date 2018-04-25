@@ -18,10 +18,10 @@ npm run build
 npm run build --report
 ```
  
-** DEOM演示 **
+### DEOM演示 
 
 - https://wekersnail.github.io/to-do-app/
 
-** 技术栈 **
+### 技术栈 
 
 - vue + vuex + better-scorll
